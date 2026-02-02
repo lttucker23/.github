@@ -8,7 +8,7 @@ The AGNTCY platform is an open source framework designed to enable standardized 
 
 For getting started on AGNTCY look at [CoffeeAgntcy](https://github.com/agntcy/coffeeAgntcy) which is a reference implementation based on a fictitious coffee company to help developers understand how components in the AGNTCY Internet of Agents ecosystem can work together. It gives examples of the components of AGNTCY working together as a Multi-agent System (MAS).
 
-For more information, see the [AGNTCY documentation](https://docs.agntcy.org/), where you can find component-level getting started guides, such as [SLIM](https://docs.agntcy.org/messaging/slim-howto), [Identity](https://docs.agntcy.org/identity/identity-quickstart/), and [Agent Directory](https://docs.agntcy.org/dir/getting-started).
+For more information, see the [AGNTCY documentation](https://docs.agntcy.org/), where you can find component-level getting started guides, such as [SLIM](https://docs.agntcy.org/slim/slim-howto/), [Identity](https://docs.agntcy.org/identity/identity-quickstart/), and [Agent Directory](https://docs.agntcy.org/dir/getting-started).
 
 Love our mission and work? If you decide to contribute to any of our sub-projects, we would be delighted to collaborate with you. Here are some options:
 
